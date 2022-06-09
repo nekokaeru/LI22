@@ -1,4 +1,5 @@
 Naoki Mori
+Yusuke Takahata
 Aoi Tsuruta
 Riku Higashimura
 Yuusuke Higo
@@ -9,3 +10,4 @@ Tomoya Nakatani
 Takaaki Fukunaga
 Jyoji Mori
 Naoto Aoki
+
