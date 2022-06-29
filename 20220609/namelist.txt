@@ -1,4 +1,5 @@
 Naoki Mori
+Niklas Bohley
 Takumi Washino
 Mizuki Tada
 Karin Matsushita
@@ -23,3 +24,5 @@ Takaaki Fukunaga
 Jyoji Mori
 Naoto Aoki
 Niklas Bohley
+Youssey IGLI
+Jiewen Wang
