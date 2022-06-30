@@ -4,7 +4,6 @@ Takumi Washino
 Mizuki Tada
 Karin Matsushita
 Hidenori Yamato
-Hajime Hirano
 Tsujiwaki Yuho
 Hiroto Tanaka
 Seiya Tanaka
@@ -26,3 +25,4 @@ Naoto Aoki
 Niklas Bohley
 Youssey IGLI
 Jiewen Wang
+Hajime Hirano
